@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "466296971483",
+    "firebase_url": "https://makeover-3d213.firebaseio.com",
+    "project_id": "makeover-3d213",
+    "storage_bucket": "makeover-3d213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466296971483:android:558b765041fdfec456acfe",
+        "android_client_info": {
+          "package_name": "com.darts.makeoverlounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466296971483-fm1320rr4vp0mit6fjndhh7l4b349b6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darts.makeoverlounge",
+            "certificate_hash": "ef22b6b64dad4542249433ee161cc0563d4d6c61"
+          }
+        },
+        {
+          "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5E9VSoMdn5O6dLQiqxYcfEy1r4b7wRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466296971483-gce4g1jq9ehdldb3gb01dvou94a79cu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeoverlounge"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466296971483:android:d20722a6f5f8127956acfe",
+        "android_client_info": {
+          "package_name": "com.darts.mega_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5E9VSoMdn5O6dLQiqxYcfEy1r4b7wRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466296971483-gce4g1jq9ehdldb3gb01dvou94a79cu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeoverlounge"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466296971483:android:b7a7fe372853a84256acfe",
+        "android_client_info": {
+          "package_name": "com.example.tony_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5E9VSoMdn5O6dLQiqxYcfEy1r4b7wRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466296971483-6579cet7454si040ncu17d3kmq1a00hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466296971483-gce4g1jq9ehdldb3gb01dvou94a79cu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeoverlounge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
